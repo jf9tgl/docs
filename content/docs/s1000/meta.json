@@ -1,0 +1,12 @@
+{
+    "title": "S1000",
+    "description": "SaccFlight用デジタル計器システム",
+    "root": true,
+    "pages": [
+        "index",
+        "setup",
+        "configuration",
+        "license",
+        "changelog"
+    ]
+}

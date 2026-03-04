@@ -1,0 +1,11 @@
+{
+    "title": "Armature Scale Copier",
+    "description": "コンポーネントを簡単にコピー",
+    "root": true,
+    "pages": [
+        "index",
+        "setup",
+        "license",
+        "changelog"
+    ]
+}
